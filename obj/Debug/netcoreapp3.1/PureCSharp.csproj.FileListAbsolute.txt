@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\PureCSharp\bin\Debug\netcoreapp3.1\PureCSharp.exe
+C:\Users\hp\source\repos\PureCSharp\bin\Debug\netcoreapp3.1\PureCSharp.deps.json
+C:\Users\hp\source\repos\PureCSharp\bin\Debug\netcoreapp3.1\PureCSharp.runtimeconfig.json
+C:\Users\hp\source\repos\PureCSharp\bin\Debug\netcoreapp3.1\PureCSharp.runtimeconfig.dev.json
+C:\Users\hp\source\repos\PureCSharp\bin\Debug\netcoreapp3.1\PureCSharp.dll
+C:\Users\hp\source\repos\PureCSharp\bin\Debug\netcoreapp3.1\PureCSharp.pdb
+C:\Users\hp\source\repos\PureCSharp\obj\Debug\netcoreapp3.1\PureCSharp.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\PureCSharp\obj\Debug\netcoreapp3.1\PureCSharp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\PureCSharp\obj\Debug\netcoreapp3.1\PureCSharp.AssemblyInfo.cs
+C:\Users\hp\source\repos\PureCSharp\obj\Debug\netcoreapp3.1\PureCSharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PureCSharp\obj\Debug\netcoreapp3.1\PureCSharp.dll
+C:\Users\hp\source\repos\PureCSharp\obj\Debug\netcoreapp3.1\PureCSharp.pdb
+C:\Users\hp\source\repos\PureCSharp\obj\Debug\netcoreapp3.1\PureCSharp.genruntimeconfig.cache
